@@ -1,0 +1,19 @@
+{
+  "name": "ppi-typescript",
+  "version": "1.0.0",
+  "description": "fundamentos básicos de typescript - ppi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FalcaoCamilla/ppi-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FalcaoCamilla/ppi-typescript/issues"
+  },
+  "homepage": "https://github.com/FalcaoCamilla/ppi-typescript#readme"
+}
